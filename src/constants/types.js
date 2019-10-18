@@ -1,0 +1,8 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const COMPARE_PRODUCT = 'COMPARE_PRODUCT';
+export const FETCH_DETAILS = "FETCH_DETAILS";
+export const ADD_TODO = "ADD_TODO";
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
+
+export const GET_ALL_CONTACTS = "GET_ALL_CONTACTS";
+export const CREATE_NEW_CONTACT = "CREATE_NEW_CONTACT";
