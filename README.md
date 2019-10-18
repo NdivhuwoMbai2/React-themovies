@@ -1,12 +1,12 @@
-#### Example:   
+## The Movies
 
-[ PRETEND SCREEN SHOT IS HERE ]
+The application that allows you to pick one of your fav and view their details
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+## Project Screen Shot(s)
+
+![alt tag](https://github.com/NdivhuwoMbai2/themovies/blob/master/preview.PNG)
 
 ## Installation and Setup Instructions
-
-#### Example:  
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
